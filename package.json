@@ -1,0 +1,23 @@
+{
+  "name": "nodee",
+  "version": "0.0.1",
+  "description": "Test nodee",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatae/nodee.git"
+  },
+  "author": "eatae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eatae/nodee/issues"
+  },
+  "homepage": "https://github.com/eatae/nodee#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
